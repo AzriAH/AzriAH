@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**AzriAH/AzriAH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Azri Amir Hakim
+I'm a student at UNCW
+My LinkedIn is: https://www.linkedin.com/in/azrihakim/
+![Azri Hakim](https://media-exp1.licdn.com/dms/image/C5603AQFXMTu2TCOfdA/profile-displayphoto-shrink_800_800/0/1569532353635?e=1653523200&v=beta&t=04GK7MQ-A_rYr-U0htGf1N-e7XIzGRxeJ_02wy5N-mU "Me")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on a class project developing an app to track food trucks
+- 🌱 I’m currently studying Accounting and Information Systems
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: Email: asa1949@uncw.edu | Phone: +1 (910) 777-3958 |
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can juggle! 👋 ⚾ ⚾ ⚾ 👋
+
