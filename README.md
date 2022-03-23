@@ -13,3 +13,5 @@ My LinkedIn is: https://www.linkedin.com/in/azrihakim/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can juggle! 👋 ⚾ ⚾ ⚾ 👋
 
+
+[![Azri's github stats](https://github-readme-stats.vercel.app/api?username=AzriAH&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
