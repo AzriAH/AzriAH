@@ -8,7 +8,6 @@ My LinkedIn is: https://www.linkedin.com/in/azrihakim/
 
 - 🔭 I’m currently working on a class project developing an app to track food trucks
 - 🌱 I’m currently studying Accounting and Information Systems
-- 💬 Ask me about ...
 - 📫 How to reach me: Email: asa1949@uncw.edu | Phone: +1 (910) 777-3958 |
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can juggle! 👋 ⚾ ⚾ ⚾ 👋
